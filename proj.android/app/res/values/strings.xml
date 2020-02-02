@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My ColoringBook</string>
+
+    <string name="admob_publisher_id" translatable="false">pub-3940256099942544</string>
+
+    <string name="admob_application_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="privacy_url" translatable="false">https://infantilaprendizaj.wixsite.com/infantil</string>
+
+    <string name="more_game_url" translatable="false">https://play.google.com/store/apps/developer?id=YourCompanyName</string>
+    <string name="rate_game_url" translatable="false">https://play.google.com/store/apps/details?id=com.yourcompany.mycoloringbook</string>
+</resources>
